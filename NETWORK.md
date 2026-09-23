@@ -1,10 +1,11 @@
-# Zion AI Threat Intel
+# 🔗 Zion App Network
 
-Security intelligence feeds and triage.
+Part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-threat-brief](https://github.com/Zion-support/zion-ai-threat-brief) · [zion-ai-threat-modeler](https://github.com/Zion-support/zion-ai-threat-modeler) · [ai-cybersecurity-hub](https://github.com/Zion-support/ai-cybersecurity-hub) · [ai-deepfake-detector](https://github.com/Zion-support/ai-deepfake-detector)
+- 🏠 Homepage: https://ziontechgroup.com
+- 📂 Full catalog: https://ziontechgroup.com/apps/
+- 📢 Network overview: https://ziontechgroup.com/app-network/
+- 💻 GitHub: https://github.com/Zion-support
+- ✉️ commercial@ziontechgroup.com
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+**Related apps:** [zion-ai-threat-brief](https://github.com/Zion-support/zion-ai-threat-brief) · [ai-cybersecurity-hub](https://github.com/Zion-support/ai-cybersecurity-hub) · [cybersecurity-risk-assessment](https://github.com/Zion-support/cybersecurity-risk-assessment)
