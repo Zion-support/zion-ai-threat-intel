@@ -1,11 +1,16 @@
-# 🔗 Zion App Network
+# 🌐 Part of the Zion App Network
 
-This app is part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
+**Zion AI Threat Intel** is one of 533+ interconnected apps in the Zion Tech Group network.
 
-- 🏠 Homepage: https://ziontechgroup.com
-- 📂 Full catalog: https://ziontechgroup.com/apps/
-- 📢 Network overview: https://ziontechgroup.com/app-network/
-- 💻 GitHub: https://github.com/Zion-support
-- ✉️ commercial@ziontechgroup.com
+- 🏠 [ziontechgroup.com](https://ziontechgroup.com)
+- 🗂️ [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 📚 [Master Catalog](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- 📊 [Status](https://zion-support.github.io/zion-status/) · 💳 [Plans](https://zion-support.github.io/plans/) · 🧭 [Portal](https://zion-support.github.io/zion-portal/)
+- 📣 [App Network Showcase](https://ziontechgroup.com/app-network/)
 
-**Related apps:** [zion-ai-threat-brief](https://github.com/Zion-support/zion-ai-threat-brief) · [ai-cybersecurity-hub](https://github.com/Zion-support/ai-cybersecurity-hub) · [zion-ai-regs-radar](https://github.com/Zion-support/zion-ai-regs-radar)
+## Related apps
+- [Zion AI Threat Brief](https://github.com/Zion-support/zion-ai-threat-brief)
+- [AI Cybersecurity Hub](https://github.com/Zion-support/ai-cybersecurity-hub)
+- [Zion AI Secrets Sentinel](https://github.com/Zion-support/zion-ai-secrets-sentinel)
+
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
